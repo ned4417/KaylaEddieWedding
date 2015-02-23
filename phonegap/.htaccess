@@ -1,1 +1,2 @@
-DirectoryIndex index.php
+RewriteEngine on
+RewriteRule index\.html index.php [NC,R]
